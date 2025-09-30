@@ -1,4 +1,4 @@
-# Danh sách bài dạy
+# Danh sách bài dạy cho lớp cơ bản
 **Bài 1 - GPIO, Delay**
 * Giới thiệu về GPIO.
 * Giới thiệu về delay.
