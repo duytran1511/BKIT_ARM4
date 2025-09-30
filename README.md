@@ -35,45 +35,4 @@
 
 [Hướng dẫn sử dụng nhanh Kit Thí nghiệm BKIT ARM4](https://abcsolutions.com.vn/wp-content/uploads/2023/11/KitThiNghiem_STM32_ARM4_QuickStartGuide_20231027_1027.pdf)
 
-[(Drive) Tài liệu chia sẻ sinh viên](https://drive.google.com/drive/folders/1-nrxDofZvNRVR-uWFto3qvDx2LCEXZcE?usp=sharing)
-
----
-# Lesson List
-
-**Lesson 1 - GPIO, Delay**  
-* Introduction to GPIO  
-* Introduction to delay  
-
-**Lesson 2 - Timer**  
-* Introduction to Timer  
-* Using a single Timer for scheduling all other tasks  
-
-**Lesson 3 - LCD, Button**  
-* Introduction to Button and LCD libraries  
-
-**Lesson 4 - State Machine**  
-* Introduction to Finite-State Machine (FSM)  
-* Practice exercise: Flag Raising  
-
-**Lesson 5 - Exercises on State Machine**  
-* Practice exercise: Turn Signal Light  
-* Practice exercise: Traffic Light  
-* Practice exercise: Password Door  
-
-**Lesson 6 - Real-Time Clock**  
-* Introduction to I2C communication protocol  
-* Introduction to real-time clock with DS3231 IC  
-* Practice exercise: Real-Time Clock  
-
-**Lesson 7 - ADC and PWM**  
-* Introduction to ADC and PWM  
-
-**Lesson 8 - UART**  
-* Introduction to UART  
-
----
-
-## References
-- [Website introducing BKIT ARM4 Experiment Kit](https://abcsolutions.com.vn/index.php/kit-thi-nghiem-bkit-arm4/)  
-- [Quick Start Guide for BKIT ARM4 Experiment Kit](https://abcsolutions.com.vn/wp-content/uploads/2023/11/KitThiNghiem_STM32_ARM4_QuickStartGuide_20231027_1027.pdf)  
-- [(Drive) Shared Student Materials](https://drive.google.com/drive/folders/1-nrxDofZvNRVR-uWFto3qvDx2LCEXZcE?usp=sharing)  
+[Shared Document](https://drive.google.com/drive/folders/1-nrxDofZvNRVR-uWFto3qvDx2LCEXZcE?usp=sharing)
