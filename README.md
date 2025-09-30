@@ -1,4 +1,4 @@
-# Danh sách bài dạy
+# Danh sách bài dạy cho lớp cơ bản
 **Bài 1 - GPIO, Delay**
 * Giới thiệu về GPIO.
 * Giới thiệu về delay.
@@ -31,8 +31,8 @@
 * Giới thiệu về UART
 
 ## Tài liệu
+[Shared Document](https://drive.google.com/drive/folders/1-nrxDofZvNRVR-uWFto3qvDx2LCEXZcE?usp=sharing)
+
 [Website giới thiệu Kit Thí nghiệm BKIT ARM4](https://abcsolutions.com.vn/index.php/kit-thi-nghiem-bkit-arm4/)
 
 [Hướng dẫn sử dụng nhanh Kit Thí nghiệm BKIT ARM4](https://abcsolutions.com.vn/wp-content/uploads/2023/11/KitThiNghiem_STM32_ARM4_QuickStartGuide_20231027_1027.pdf)
-
-[Shared Document](https://drive.google.com/drive/folders/1-nrxDofZvNRVR-uWFto3qvDx2LCEXZcE?usp=sharing)
