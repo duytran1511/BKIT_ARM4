@@ -1,38 +1,57 @@
-# Danh sách bài dạy cho lớp cơ bản
-**Bài 1 - GPIO, Delay**
-* Giới thiệu về GPIO.
-* Giới thiệu về delay.
+# Basic Embedded Systems Course
 
-**Bài 2 - Timer**
-* Giới thiệu về Timer.
-* Sử dụng 1 Timer chung để định thời cho tất cả các tác vụ khác.
+Welcome to the repository for the Basic Embedded Systems course! This curriculum is designed to help beginners learn microcontroller programming, covering everything from basic I/O operations to communication protocols using the **BKIT ARM4 Experiment Kit**.
 
-**Bài 3 - LCD, Button**
-* Giới thiệu về thư viện Nút nhấn và Màn hình LCD.
+---
 
-**Bài 4 - Máy trạng thái**
-* Giới thiệu về Máy trạng thái - (finite-state machine FSM).
-* Thực hành bài tập Kéo cờ.
+## 📚 Course Curriculum
 
-**Bài 5 - Bài tập về Máy trạng thái**
-* Thực hành bài tập Đèn xi nhan.
-* Thực hành bài tập Đèn giao thông.
-* Thực hành bài tập Password Door.
+### Lesson 1 - GPIO, Delay
+* Introduction to GPIO.
+* Introduction to Delay.
 
-**Bài 6 - Đồng hồ thời gian thực**
-* Giới thiệu chuẩn giao tiếp I2C.
-* Giới thiệu về đồng hồ thời gian thực với IC DS3231.
-* Thực hành bài tập Đồng hồ thời gian thực.
+### Lesson 2 - Timer
+* Introduction to Timer.
+* Using a single common Timer for scheduling all other tasks.
 
-**Bài 7 - ADC và PWM**
-* Giới thiệu về ADC và PWM
+### Lesson 3 - LCD, Button
+* Introduction to Button and LCD screen libraries.
 
-**Bài 8 - UART**
-* Giới thiệu về UART
+### Lesson 4 - State Machine
+* Introduction to Finite-State Machine (FSM).
+* Practice exercise: Flag Raising.
 
-## Tài liệu
-[Shared Document](https://drive.google.com/drive/folders/1-nrxDofZvNRVR-uWFto3qvDx2LCEXZcE?usp=sharing)
+### Lesson 5 - State Machine Exercises
+* Practice exercise: Turn Signal Lights.
+* Practice exercise: Traffic Lights.
+* Practice exercise: Password Door.
 
-[Website giới thiệu Kit Thí nghiệm BKIT ARM4](https://abcsolutions.com.vn/index.php/kit-thi-nghiem-bkit-arm4/)
+### Lesson 6 - Real-Time Clock (RTC)
+* Introduction to I2C communication protocol.
+* Introduction to Real-Time Clock with DS3231 IC.
+* Practice exercise: Real-Time Clock.
 
-[Hướng dẫn sử dụng nhanh Kit Thí nghiệm BKIT ARM4](https://abcsolutions.com.vn/wp-content/uploads/2023/11/KitThiNghiem_STM32_ARM4_QuickStartGuide_20231027_1027.pdf)
+### Lesson 7 - ADC and PWM
+* Introduction to ADC and PWM.
+
+### Lesson 8 - UART
+* Introduction to UART.
+
+---
+
+## 🛠️ Hardware Requirements
+
+The lessons and exercises in this repository are specifically tailored for the **BKIT ARM4 Experiment Kit**. To follow along, you will need the kit and its integrated peripherals (LCD, Buttons, LEDs, DS3231 RTC module, etc.).
+
+---
+
+## 🔗 References & Documentation
+
+Below are the essential resources for the course, including datasheets, setup guides, and shared materials:
+
+* 📁 [**Course Shared Documents**](https://drive.google.com/drive/folders/1-nrxDofZvNRVR-uWFto3qvDx2LCEXZcE?usp=sharing) (Google Drive)
+* 🌐 [**BKIT ARM4 Experiment Kit - Official Website**](https://abcsolutions.com.vn/index.php/kit-thi-nghiem-bkit-arm4/)
+* 📖 [**BKIT ARM4 Quick Start Guide**](https://abcsolutions.com.vn/wp-content/uploads/2023/11/KitThiNghiem_STM32_ARM4_QuickStartGuide_20231027_1027.pdf) (PDF)
+
+---
+*Note: Please refer to the Quick Start Guide before beginning Lesson 1 to ensure your development environment is properly configured.*
