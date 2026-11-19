@@ -49,9 +49,9 @@ The lessons and exercises in this repository are specifically tailored for the *
 
 Below are the essential resources for the course, including datasheets, setup guides, and shared materials:
 
-* 📁 [**Course Shared Documents**](https://drive.google.com/drive/folders/1-nrxDofZvNRVR-uWFto3qvDx2LCEXZcE?usp=sharing) (Google Drive)
-* 🌐 [**BKIT ARM4 Experiment Kit - Official Website**](https://abcsolutions.com.vn/index.php/kit-thi-nghiem-bkit-arm4/)
-* 📖 [**BKIT ARM4 Quick Start Guide**](https://abcsolutions.com.vn/wp-content/uploads/2023/11/KitThiNghiem_STM32_ARM4_QuickStartGuide_20231027_1027.pdf) (PDF)
+* 📁 [**Course Shared Documents**](https://drive.google.com/drive/folders/1-nrxDofZvNRVR-uWFto3qvDx2LCEXZcE?usp=sharing)
+* * 📖 [**BKIT ARM4 Quick Start Guide**](https://drive.google.com/file/d/1l96gxdzLt7spjlMczbKzi5Ze5IDPJBu0/view?usp=sharing)
+* 🌐 [**BKIT ARM4 Experiment Kit - Official Website**]([https://abcsolutions.com.vn/index.php/kit-thi-nghiem-bkit-arm4/](https://abcsolutions.com.vn/vi/san-pham/bkit-arm4))
 
 ---
 *Note: Please refer to the Quick Start Guide before beginning Lesson 1 to ensure your development environment is properly configured.*
